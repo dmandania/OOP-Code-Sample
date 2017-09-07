@@ -58,7 +58,7 @@ public class SelectionController : MonoBehaviour
     /// <summary>
     /// Property which returns the currently selected GameObject as well as invoking the selectionEvent in the setter
     /// </summary>
-    protected virtual GameObject CurrentSelection
+    protected GameObject CurrentSelection
     {
         get
         {
